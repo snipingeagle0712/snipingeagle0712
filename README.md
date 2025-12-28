@@ -22,4 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snipingeagle0712&show_icons=true&locale=en" alt="snipingeagle0712" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snipingeagle0712&" alt="snipingeagle0712" /></p>
-![GitHub Contribution Snake](https://raw.githubusercontent.com/snipingeagle0712/snipingeagle0712/output/snake.svg)
+<div>
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/snipingeagle0712/snipingeagle0712/output/snake.svg)    
+</div>
+
