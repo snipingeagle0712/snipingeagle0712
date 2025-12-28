@@ -23,7 +23,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snipingeagle0712&" alt="snipingeagle0712" /></p>
 <div>
-
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/snipingeagle0712/snipingeagle0712/output/snake.svg)    
 </div>
 
