@@ -1,29 +1,73 @@
-<h1 align="center">Hi 👋, I'm SnipingEagle</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi, I'm Surya Nandan 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snipingeagle0712&label=Profile%20views&color=0e75b6&style=flat" alt="snipingeagle0712" /> </p>
+<h3 align="center">
+  Web/App Developer • ML Enthusiast • 3D & Game Dev Explorer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snipingeagle0712" alt="snipingeagle0712" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Programming practice](https://github.com/snipingeagle0712/Programming-Practice.git)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  Trying to learn and grow while building projects in Web Development,
+  App Development, Machine Learning and creative 3D stuff.
 </p>
-    
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snipingeagle0712&show_icons=true&locale=en&layout=compact" alt="snipingeagle0712" /></p>
+## About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snipingeagle0712&show_icons=true&locale=en" alt="snipingeagle0712" /></p>
+- 🌱 Currently learning **React, React Native and Machine Learning**
+- 🚀 Building projects with **MERN, Python, OpenCV and AI**
+- 🎮 Interested in **gaming-style UI, 3D, fitness tech and AI apps**
+- 📫 Reach me at: **gvsnandan07@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snipingeagle0712&" alt="snipingeagle0712" /></p>
-<div>
+---
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/snipingeagle0712/snipingeagle0712/output/snake.svg)    
-</div>
+## Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,java,nodejs,express,mongodb,mysql,git,github,figma,tailwind,threejs,opencv,firebase,flask,flutter,aws,gcp,linux,blender,unity" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=SuryaNandan07&theme=radical&hide_border=true" 
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SuryaNandan07&show_icons=true&theme=radical&hide_border=true" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaNandan07&layout=compact&theme=radical&hide_border=true" 
+    height="180"
+  />
+</p>
+
+---
+
+## Space Shooter Contribution Graph
+
+<p align="center">
+  <img src="space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/YOUR-INSTAGRAM">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:gvsnandan07@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
