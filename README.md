@@ -98,3 +98,15 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,express,mongodb,python,opencv,git,github,vscode" />
 </p>
+
+# 🏋️ Fitness AI Coach
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,mongodb,python,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Posture%20Detection-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rep%20Counting-Real--Time-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Recommendations-Adaptive-orange?style=for-the-badge" />
+</p>
